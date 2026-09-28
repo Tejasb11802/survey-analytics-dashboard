@@ -1,0 +1,11 @@
+segment,group,dimension,label,group_n,group_mean,rest_mean,gap,cohens_d,p_value,significant
+class_standing,Graduate,scheduling_hours,Scheduling & Hours,195,2.241,2.7989,-0.5578,-0.5595,0.0,True
+class_standing,Freshman,registration_process,Registration Process,235,2.566,3.0957,-0.5298,-0.5302,0.0,True
+participation_frequency,Weekly+,equipment_availability,Equipment Availability,456,2.6886,3.0922,-0.4036,-0.4197,0.0,True
+student_type,International,communication,Communication,218,2.7661,3.1353,-0.3692,-0.3742,0.0,True
+residence,Off-Campus,scheduling_hours,Scheduling & Hours,625,2.5584,2.8901,-0.3317,-0.3259,0.0,True
+residence,Off-Campus,accessibility,Accessibility,625,3.0512,3.3761,-0.3249,-0.3362,0.0,True
+student_type,International,registration_process,Registration Process,223,2.7265,3.0466,-0.3202,-0.3245,0.0,True
+class_standing,Freshman,communication,Communication,239,2.8159,3.1303,-0.3144,-0.321,0.0,True
+participation_frequency,Rarely,program_variety,Program Variety,254,3.3819,3.689,-0.3071,-0.3421,0.0,True
+student_type,International,cost_value,Cost & Value,222,2.9459,3.2155,-0.2696,-0.2836,0.0002,True

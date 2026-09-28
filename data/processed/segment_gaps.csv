@@ -1,0 +1,232 @@
+segment,group,dimension,label,group_n,group_mean,rest_mean,gap,cohens_d,p_value,significant
+class_standing,Senior,facilities_cleanliness,Facilities & Cleanliness,215,3.9628,3.817,0.1458,0.1656,0.027,True
+class_standing,Senior,equipment_availability,Equipment Availability,219,2.9452,2.9146,0.0306,0.0307,0.6899,False
+class_standing,Senior,scheduling_hours,Scheduling & Hours,214,2.7336,2.6894,0.0443,0.043,0.5748,False
+class_standing,Senior,staff_support,Staff Support,216,3.9954,4.0592,-0.0638,-0.0738,0.3385,False
+class_standing,Senior,communication,Communication,210,3.0952,3.0513,0.044,0.0447,0.5571,False
+class_standing,Senior,registration_process,Registration Process,220,3.1682,2.9326,0.2355,0.2371,0.0016,True
+class_standing,Senior,cost_value,Cost & Value,212,3.217,3.1455,0.0715,0.074,0.339,False
+class_standing,Senior,safety,Safety,207,4.1159,4.0529,0.0631,0.0742,0.3483,False
+class_standing,Senior,program_variety,Program Variety,220,3.6818,3.5995,0.0823,0.0914,0.2247,False
+class_standing,Senior,accessibility,Accessibility,215,3.2279,3.1775,0.0504,0.0507,0.5113,False
+class_standing,Senior,overall_satisfaction,Overall Satisfaction,227,7.5463,7.2884,0.2579,0.1874,0.0134,True
+class_standing,Freshman,facilities_cleanliness,Facilities & Cleanliness,240,3.8208,3.8535,-0.0327,-0.0361,0.6251,False
+class_standing,Freshman,equipment_availability,Equipment Availability,236,2.9322,2.9177,0.0145,0.0145,0.8479,False
+class_standing,Freshman,scheduling_hours,Scheduling & Hours,239,2.7866,2.673,0.1136,0.1128,0.1171,False
+class_standing,Freshman,staff_support,Staff Support,238,4.042,4.0476,-0.0056,-0.0065,0.9296,False
+class_standing,Freshman,communication,Communication,239,2.8159,3.1303,-0.3144,-0.321,0.0,True
+class_standing,Freshman,registration_process,Registration Process,235,2.566,3.0957,-0.5298,-0.5302,0.0,True
+class_standing,Freshman,cost_value,Cost & Value,234,3.0855,3.1804,-0.0949,-0.1004,0.1707,False
+class_standing,Freshman,safety,Safety,243,4.0823,4.06,0.0224,0.0271,0.7073,False
+class_standing,Freshman,program_variety,Program Variety,239,3.7448,3.5796,0.1651,0.1828,0.013,True
+class_standing,Freshman,accessibility,Accessibility,239,3.2134,3.1802,0.0332,0.0346,0.63,False
+class_standing,Freshman,overall_satisfaction,Overall Satisfaction,252,7.2222,7.3739,-0.1516,-0.1116,0.1196,False
+class_standing,Sophomore,facilities_cleanliness,Facilities & Cleanliness,209,3.8086,3.8553,-0.0467,-0.0515,0.5069,False
+class_standing,Sophomore,equipment_availability,Equipment Availability,210,2.8143,2.9468,-0.1325,-0.1379,0.068,False
+class_standing,Sophomore,scheduling_hours,Scheduling & Hours,215,2.8651,2.6566,0.2085,0.2054,0.0068,True
+class_standing,Sophomore,staff_support,Staff Support,213,4.0282,4.0509,-0.0227,-0.027,0.72,False
+class_standing,Sophomore,communication,Communication,208,3.1875,3.0291,0.1584,0.162,0.0339,True
+class_standing,Sophomore,registration_process,Registration Process,214,3.0421,2.9654,0.0767,0.0766,0.3117,False
+class_standing,Sophomore,cost_value,Cost & Value,214,3.1215,3.1692,-0.0477,-0.05,0.5113,False
+class_standing,Sophomore,safety,Safety,208,4.0865,4.0598,0.0267,0.0334,0.6518,False
+class_standing,Sophomore,program_variety,Program Variety,208,3.601,3.6201,-0.0191,-0.0212,0.7818,False
+class_standing,Sophomore,accessibility,Accessibility,214,3.1916,3.1866,0.005,0.0051,0.9471,False
+class_standing,Sophomore,overall_satisfaction,Overall Satisfaction,222,7.3604,7.3352,0.0252,0.0184,0.8078,False
+class_standing,Junior,facilities_cleanliness,Facilities & Cleanliness,213,3.784,3.8616,-0.0776,-0.0854,0.2695,False
+class_standing,Junior,equipment_availability,Equipment Availability,217,2.9078,2.9242,-0.0163,-0.0167,0.8245,False
+class_standing,Junior,scheduling_hours,Scheduling & Hours,217,2.8111,2.6698,0.1413,0.1368,0.0743,False
+class_standing,Junior,staff_support,Staff Support,219,4.0502,4.0454,0.0048,0.0056,0.9423,False
+class_standing,Junior,communication,Communication,216,3.1713,3.0317,0.1396,0.1385,0.0739,False
+class_standing,Junior,registration_process,Registration Process,222,3.0856,2.9534,0.1322,0.1298,0.0881,False
+class_standing,Junior,cost_value,Cost & Value,223,3.1525,3.1616,-0.0091,-0.0095,0.9003,False
+class_standing,Junior,safety,Safety,223,4.0583,4.0667,-0.0084,-0.0101,0.8938,False
+class_standing,Junior,program_variety,Program Variety,217,3.5853,3.6243,-0.039,-0.0424,0.5833,False
+class_standing,Junior,accessibility,Accessibility,217,3.1751,3.1907,-0.0156,-0.016,0.8326,False
+class_standing,Junior,overall_satisfaction,Overall Satisfaction,230,7.3913,7.3271,0.0643,0.0475,0.518,False
+class_standing,Graduate,facilities_cleanliness,Facilities & Cleanliness,196,3.8571,3.8438,0.0134,0.0149,0.8505,False
+class_standing,Graduate,equipment_availability,Equipment Availability,192,3.0104,2.9014,0.1091,0.1136,0.1456,False
+class_standing,Graduate,scheduling_hours,Scheduling & Hours,195,2.241,2.7989,-0.5578,-0.5595,0.0,True
+class_standing,Graduate,staff_support,Staff Support,192,4.125,4.0293,0.0957,0.1144,0.1433,False
+class_standing,Graduate,communication,Communication,195,3.0615,3.0596,0.002,0.002,0.9805,False
+class_standing,Graduate,registration_process,Registration Process,190,3.0842,2.9585,0.1257,0.1294,0.0925,False
+class_standing,Graduate,cost_value,Cost & Value,188,3.2394,3.1427,0.0967,0.1005,0.2147,False
+class_standing,Graduate,safety,Safety,196,3.9745,4.0851,-0.1106,-0.1297,0.11,False
+class_standing,Graduate,program_variety,Program Variety,190,3.4316,3.6561,-0.2245,-0.2511,0.0017,True
+class_standing,Graduate,accessibility,Accessibility,192,3.1198,3.2023,-0.0825,-0.0826,0.3083,False
+class_standing,Graduate,overall_satisfaction,Overall Satisfaction,201,7.1741,7.3759,-0.2018,-0.1533,0.0426,True
+college,Liberal Arts,facilities_cleanliness,Facilities & Cleanliness,170,3.7824,3.8583,-0.0759,-0.0817,0.3439,False
+college,Liberal Arts,equipment_availability,Equipment Availability,167,2.7844,2.946,-0.1615,-0.1686,0.0414,True
+college,Liberal Arts,scheduling_hours,Scheduling & Hours,170,2.5706,2.722,-0.1514,-0.1496,0.0704,False
+college,Liberal Arts,staff_support,Staff Support,166,3.9639,4.0614,-0.0975,-0.1136,0.1822,False
+college,Liberal Arts,communication,Communication,171,2.9415,3.0825,-0.141,-0.1433,0.0839,False
+college,Liberal Arts,registration_process,Registration Process,176,2.983,2.9801,0.0028,0.0028,0.9724,False
+college,Liberal Arts,cost_value,Cost & Value,172,3.1279,3.1657,-0.0378,-0.0395,0.6357,False
+college,Liberal Arts,safety,Safety,168,3.994,4.0781,-0.0841,-0.1001,0.2389,False
+college,Liberal Arts,program_variety,Program Variety,173,3.6936,3.6016,0.0921,0.1017,0.2214,False
+college,Liberal Arts,accessibility,Accessibility,174,3.0287,3.2182,-0.1894,-0.1976,0.0154,True
+college,Liberal Arts,overall_satisfaction,Overall Satisfaction,180,7.1722,7.3718,-0.1996,-0.1505,0.0591,False
+college,Business,facilities_cleanliness,Facilities & Cleanliness,174,3.8506,3.8454,0.0052,0.0058,0.9432,False
+college,Business,equipment_availability,Equipment Availability,178,2.9663,2.9118,0.0545,0.0557,0.4967,False
+college,Business,scheduling_hours,Scheduling & Hours,173,2.6474,2.7078,-0.0604,-0.0596,0.4668,False
+college,Business,staff_support,Staff Support,177,4.0904,4.0377,0.0527,0.062,0.4485,False
+college,Business,communication,Communication,169,3.071,3.0578,0.0132,0.0137,0.8656,False
+college,Business,registration_process,Registration Process,176,2.9943,2.9779,0.0164,0.0169,0.8315,False
+college,Business,cost_value,Cost & Value,176,3.233,3.1453,0.0877,0.0927,0.2566,False
+college,Business,safety,Safety,171,4.0819,4.0618,0.0201,0.0245,0.7657,False
+college,Business,program_variety,Program Variety,179,3.6145,3.6168,-0.0022,-0.0024,0.9765,False
+college,Business,accessibility,Accessibility,174,3.1609,3.1927,-0.0318,-0.033,0.685,False
+college,Business,overall_satisfaction,Overall Satisfaction,183,7.3716,7.334,0.0375,0.0278,0.7289,False
+college,Health Solutions,facilities_cleanliness,Facilities & Cleanliness,151,3.8742,3.8416,0.0325,0.0363,0.6781,False
+college,Health Solutions,equipment_availability,Equipment Availability,149,2.8591,2.9308,-0.0718,-0.0698,0.45,False
+college,Health Solutions,scheduling_hours,Scheduling & Hours,149,2.7584,2.6885,0.0699,0.0667,0.4594,False
+college,Health Solutions,staff_support,Staff Support,150,4.0933,4.0388,0.0545,0.0634,0.4757,False
+college,Health Solutions,communication,Communication,152,3.0987,3.0535,0.0452,0.0442,0.6234,False
+college,Health Solutions,registration_process,Registration Process,148,3.0676,2.9668,0.1008,0.0967,0.2903,False
+college,Health Solutions,cost_value,Cost & Value,152,3.125,3.1654,-0.0404,-0.0424,0.6264,False
+college,Health Solutions,safety,Safety,147,4.0068,4.0742,-0.0674,-0.0807,0.3664,False
+college,Health Solutions,program_variety,Program Variety,151,3.7285,3.598,0.1304,0.1468,0.0894,False
+college,Health Solutions,accessibility,Accessibility,147,3.1837,3.1882,-0.0045,-0.0045,0.9606,False
+college,Health Solutions,overall_satisfaction,Overall Satisfaction,158,7.3608,7.3368,0.024,0.0174,0.8416,False
+college,Sciences,facilities_cleanliness,Facilities & Cleanliness,192,3.9479,3.8241,0.1239,0.14,0.0747,False
+college,Sciences,equipment_availability,Equipment Availability,193,2.9482,2.9149,0.0333,0.0336,0.6751,False
+college,Sciences,scheduling_hours,Scheduling & Hours,196,2.7347,2.69,0.0446,0.0428,0.5937,False
+college,Sciences,staff_support,Staff Support,194,3.9948,4.0577,-0.0628,-0.0734,0.3571,False
+college,Sciences,communication,Communication,193,3.1399,3.0423,0.0976,0.0966,0.2323,False
+college,Sciences,registration_process,Registration Process,193,2.9171,2.9944,-0.0773,-0.077,0.3292,False
+college,Sciences,cost_value,Cost & Value,190,3.1684,3.1578,0.0106,0.0111,0.8909,False
+college,Sciences,safety,Safety,200,4.06,4.0661,-0.0061,-0.0072,0.9292,False
+college,Sciences,program_variety,Program Variety,188,3.6011,3.6196,-0.0186,-0.0207,0.7943,False
+college,Sciences,accessibility,Accessibility,188,3.2128,3.1822,0.0305,0.0305,0.7101,False
+college,Sciences,overall_satisfaction,Overall Satisfaction,201,7.393,7.3287,0.0644,0.0467,0.5548,False
+college,Engineering,facilities_cleanliness,Facilities & Cleanliness,258,3.8062,3.8589,-0.0527,-0.0581,0.4192,False
+college,Engineering,equipment_availability,Equipment Availability,261,3.0383,2.8831,0.1552,0.1609,0.0221,True
+college,Engineering,scheduling_hours,Scheduling & Hours,264,2.6932,2.6998,-0.0066,-0.0064,0.9279,False
+college,Engineering,staff_support,Staff Support,262,4.0878,4.0331,0.0547,0.0645,0.3612,False
+college,Engineering,communication,Communication,262,3.0305,3.0695,-0.0389,-0.0385,0.5934,False
+college,Engineering,registration_process,Registration Process,266,2.9774,2.9816,-0.0042,-0.004,0.955,False
+college,Engineering,cost_value,Cost & Value,256,3.1992,3.1472,0.052,0.0543,0.4497,False
+college,Engineering,safety,Safety,265,4.1321,4.0431,0.089,0.1078,0.1253,False
+college,Engineering,program_variety,Program Variety,257,3.5759,3.6291,-0.0533,-0.0584,0.4167,False
+college,Engineering,accessibility,Accessibility,268,3.3321,3.1397,0.1924,0.1975,0.0051,True
+college,Engineering,overall_satisfaction,Overall Satisfaction,277,7.4007,7.3205,0.0803,0.0596,0.3846,False
+college,Design & Arts,facilities_cleanliness,Facilities & Cleanliness,128,3.8203,3.8497,-0.0294,-0.0329,0.7245,False
+college,Design & Arts,equipment_availability,Equipment Availability,126,2.8254,2.9335,-0.1081,-0.1111,0.2396,False
+college,Design & Arts,scheduling_hours,Scheduling & Hours,128,2.8203,2.6817,0.1386,0.1361,0.1469,False
+college,Design & Arts,staff_support,Staff Support,129,4.031,4.0485,-0.0175,-0.0203,0.8297,False
+college,Design & Arts,communication,Communication,121,3.0992,3.0549,0.0443,0.0464,0.6155,False
+college,Design & Arts,registration_process,Registration Process,122,2.959,2.9833,-0.0243,-0.0241,0.8023,False
+college,Design & Arts,cost_value,Cost & Value,125,3.048,3.1744,-0.1264,-0.1306,0.1768,False
+college,Design & Arts,safety,Safety,126,4.0714,4.0641,0.0073,0.009,0.9225,False
+college,Design & Arts,program_variety,Program Variety,126,3.4841,3.634,-0.1498,-0.1637,0.0893,False
+college,Design & Arts,accessibility,Accessibility,126,3.1032,3.1987,-0.0956,-0.0975,0.3046,False
+college,Design & Arts,overall_satisfaction,Overall Satisfaction,133,7.2932,7.3463,-0.0531,-0.0382,0.6858,False
+residence,Off-Campus,facilities_cleanliness,Facilities & Cleanliness,623,3.8074,3.9,-0.0926,-0.1036,0.0923,False
+residence,Off-Campus,equipment_availability,Equipment Availability,627,2.89,2.9642,-0.0743,-0.0755,0.2244,False
+residence,Off-Campus,scheduling_hours,Scheduling & Hours,625,2.5584,2.8901,-0.3317,-0.3259,0.0,True
+residence,Off-Campus,staff_support,Staff Support,634,4.0584,4.0293,0.0291,0.034,0.5823,False
+residence,Off-Campus,communication,Communication,618,3.0372,3.0911,-0.0539,-0.0541,0.3833,False
+residence,Off-Campus,registration_process,Registration Process,622,2.9277,3.0523,-0.1246,-0.1233,0.0459,True
+residence,Off-Campus,cost_value,Cost & Value,617,3.1426,3.1828,-0.0402,-0.042,0.4965,False
+residence,Off-Campus,safety,Safety,616,4.0325,4.1085,-0.076,-0.0917,0.1349,False
+residence,Off-Campus,program_variety,Program Variety,621,3.5926,3.649,-0.0564,-0.0623,0.3123,False
+residence,Off-Campus,accessibility,Accessibility,625,3.0512,3.3761,-0.3249,-0.3362,0.0,True
+residence,Off-Campus,overall_satisfaction,Overall Satisfaction,657,7.1857,7.5537,-0.368,-0.2741,0.0,True
+residence,On-Campus,facilities_cleanliness,Facilities & Cleanliness,450,3.9,3.8074,0.0926,0.1036,0.0923,False
+residence,On-Campus,equipment_availability,Equipment Availability,447,2.9642,2.89,0.0743,0.0755,0.2244,False
+residence,On-Campus,scheduling_hours,Scheduling & Hours,455,2.8901,2.5584,0.3317,0.3259,0.0,True
+residence,On-Campus,staff_support,Staff Support,444,4.0293,4.0584,-0.0291,-0.034,0.5823,False
+residence,On-Campus,communication,Communication,450,3.0911,3.0372,0.0539,0.0541,0.3833,False
+residence,On-Campus,registration_process,Registration Process,459,3.0523,2.9277,0.1246,0.1233,0.0459,True
+residence,On-Campus,cost_value,Cost & Value,454,3.1828,3.1426,0.0402,0.042,0.4965,False
+residence,On-Campus,safety,Safety,461,4.1085,4.0325,0.076,0.0917,0.1349,False
+residence,On-Campus,program_variety,Program Variety,453,3.649,3.5926,0.0564,0.0623,0.3123,False
+residence,On-Campus,accessibility,Accessibility,452,3.3761,3.0512,0.3249,0.3362,0.0,True
+residence,On-Campus,overall_satisfaction,Overall Satisfaction,475,7.5537,7.1857,0.368,0.2741,0.0,True
+student_type,Domestic,facilities_cleanliness,Facilities & Cleanliness,850,3.8388,3.8744,-0.0356,-0.0406,0.5789,False
+student_type,Domestic,equipment_availability,Equipment Availability,853,2.9203,2.9231,-0.0028,-0.0029,0.9698,False
+student_type,Domestic,scheduling_hours,Scheduling & Hours,855,2.6924,2.72,-0.0276,-0.0278,0.7002,False
+student_type,Domestic,staff_support,Staff Support,850,4.0565,4.0088,0.0477,0.0554,0.4608,False
+student_type,Domestic,communication,Communication,850,3.1353,2.7661,0.3692,0.3742,0.0,True
+student_type,Domestic,registration_process,Registration Process,858,3.0466,2.7265,0.3202,0.3245,0.0,True
+student_type,Domestic,cost_value,Cost & Value,849,3.2155,2.9459,0.2696,0.2836,0.0002,True
+student_type,Domestic,safety,Safety,855,4.069,4.0495,0.0195,0.0228,0.7669,False
+student_type,Domestic,program_variety,Program Variety,857,3.6254,3.5806,0.0448,0.0471,0.5532,False
+student_type,Domestic,accessibility,Accessibility,851,3.2068,3.115,0.0918,0.093,0.2171,False
+student_type,Domestic,overall_satisfaction,Overall Satisfaction,899,7.3938,7.133,0.2607,0.1942,0.008,True
+student_type,International,facilities_cleanliness,Facilities & Cleanliness,223,3.8744,3.8388,0.0356,0.0406,0.5789,False
+student_type,International,equipment_availability,Equipment Availability,221,2.9231,2.9203,0.0028,0.0029,0.9698,False
+student_type,International,scheduling_hours,Scheduling & Hours,225,2.72,2.6924,0.0276,0.0278,0.7002,False
+student_type,International,staff_support,Staff Support,228,4.0088,4.0565,-0.0477,-0.0554,0.4608,False
+student_type,International,communication,Communication,218,2.7661,3.1353,-0.3692,-0.3742,0.0,True
+student_type,International,registration_process,Registration Process,223,2.7265,3.0466,-0.3202,-0.3245,0.0,True
+student_type,International,cost_value,Cost & Value,222,2.9459,3.2155,-0.2696,-0.2836,0.0002,True
+student_type,International,safety,Safety,222,4.0495,4.069,-0.0195,-0.0228,0.7669,False
+student_type,International,program_variety,Program Variety,217,3.5806,3.6254,-0.0448,-0.0471,0.5532,False
+student_type,International,accessibility,Accessibility,226,3.115,3.2068,-0.0918,-0.093,0.2171,False
+student_type,International,overall_satisfaction,Overall Satisfaction,233,7.133,7.3938,-0.2607,-0.1942,0.008,True
+gender,Female,facilities_cleanliness,Facilities & Cleanliness,503,3.8032,3.8842,-0.081,-0.0899,0.1424,False
+gender,Female,equipment_availability,Equipment Availability,508,2.9213,2.9205,0.0008,0.0008,0.9898,False
+gender,Female,scheduling_hours,Scheduling & Hours,515,2.7204,2.6779,0.0425,0.0414,0.4969,False
+gender,Female,staff_support,Staff Support,511,4.0568,4.037,0.0197,0.0231,0.705,False
+gender,Female,communication,Communication,505,3.0475,3.071,-0.0235,-0.0236,0.6998,False
+gender,Female,registration_process,Registration Process,507,2.9329,3.0226,-0.0897,-0.0888,0.1459,False
+gender,Female,cost_value,Cost & Value,511,3.137,3.1804,-0.0434,-0.0453,0.4589,False
+gender,Female,safety,Safety,512,4.0703,4.0602,0.0101,0.0122,0.8417,False
+gender,Female,program_variety,Program Variety,514,3.6012,3.6304,-0.0292,-0.0322,0.5976,False
+gender,Female,accessibility,Accessibility,504,3.2341,3.1466,0.0875,0.0893,0.1435,False
+gender,Female,overall_satisfaction,Overall Satisfaction,537,7.4041,7.2824,0.1217,0.0898,0.1315,False
+gender,Male,facilities_cleanliness,Facilities & Cleanliness,518,3.8822,3.8126,0.0696,0.0774,0.2051,False
+gender,Male,equipment_availability,Equipment Availability,510,2.898,2.9415,-0.0435,-0.0443,0.4694,False
+gender,Male,scheduling_hours,Scheduling & Hours,514,2.6829,2.712,-0.0291,-0.0283,0.6423,False
+gender,Male,staff_support,Staff Support,512,4.043,4.0495,-0.0065,-0.0076,0.9009,False
+gender,Male,communication,Communication,510,3.0706,3.0502,0.0204,0.0205,0.7378,False
+gender,Male,registration_process,Registration Process,523,3.0268,2.9373,0.0895,0.0887,0.1453,False
+gender,Male,cost_value,Cost & Value,504,3.1885,3.134,0.0545,0.0569,0.353,False
+gender,Male,safety,Safety,511,4.0802,4.0512,0.029,0.0348,0.568,False
+gender,Male,program_variety,Program Variety,505,3.6455,3.5905,0.055,0.0606,0.322,False
+gender,Male,accessibility,Accessibility,518,3.1486,3.2236,-0.075,-0.0764,0.2109,False
+gender,Male,overall_satisfaction,Overall Satisfaction,538,7.2714,7.4024,-0.131,-0.0965,0.1055,False
+gender,Non-binary / Other,facilities_cleanliness,Facilities & Cleanliness,52,3.9038,3.8433,0.0606,0.0653,0.6564,False
+gender,Non-binary / Other,equipment_availability,Equipment Availability,56,3.125,2.9096,0.2154,0.2094,0.1494,False
+gender,Non-binary / Other,scheduling_hours,Scheduling & Hours,51,2.6275,2.7017,-0.0742,-0.0712,0.6263,False
+gender,Non-binary / Other,staff_support,Staff Support,55,3.9818,4.0499,-0.068,-0.0818,0.545,False
+gender,Non-binary / Other,communication,Communication,53,3.0755,3.0591,0.0164,0.0158,0.9138,False
+gender,Non-binary / Other,registration_process,Registration Process,51,2.9804,2.9806,-0.0002,-0.0002,0.999,False
+gender,Non-binary / Other,cost_value,Cost & Value,56,3.1071,3.1626,-0.0554,-0.0576,0.6774,False
+gender,Non-binary / Other,safety,Safety,54,3.8704,4.0753,-0.2049,-0.225,0.1412,False
+gender,Non-binary / Other,program_variety,Program Variety,55,3.4909,3.6232,-0.1323,-0.1405,0.3312,False
+gender,Non-binary / Other,accessibility,Accessibility,55,3.1273,3.1908,-0.0635,-0.0641,0.6479,False
+gender,Non-binary / Other,overall_satisfaction,Overall Satisfaction,57,7.386,7.3377,0.0483,0.0344,0.8065,False
+participation_frequency,Rarely,facilities_cleanliness,Facilities & Cleanliness,247,3.915,3.8257,0.0893,0.098,0.1824,False
+participation_frequency,Rarely,equipment_availability,Equipment Availability,252,3.1349,2.8552,0.2797,0.2844,0.0001,True
+participation_frequency,Rarely,scheduling_hours,Scheduling & Hours,254,2.685,2.7022,-0.0171,-0.0165,0.8194,False
+participation_frequency,Rarely,staff_support,Staff Support,250,3.952,4.0749,-0.1229,-0.1416,0.0544,False
+participation_frequency,Rarely,communication,Communication,250,2.952,3.0929,-0.1409,-0.1415,0.0516,False
+participation_frequency,Rarely,registration_process,Registration Process,253,3.1028,2.9432,0.1595,0.1607,0.0235,True
+participation_frequency,Rarely,cost_value,Cost & Value,250,3.064,3.1888,-0.1248,-0.1283,0.0816,False
+participation_frequency,Rarely,safety,Safety,249,4.1687,4.0338,0.1349,0.1607,0.0282,True
+participation_frequency,Rarely,program_variety,Program Variety,254,3.3819,3.689,-0.3071,-0.3421,0.0,True
+participation_frequency,Rarely,accessibility,Accessibility,253,3.17,3.193,-0.023,-0.0233,0.7463,False
+participation_frequency,Rarely,overall_satisfaction,Overall Satisfaction,263,7.3536,7.336,0.0176,0.0128,0.8581,False
+participation_frequency,Weekly+,facilities_cleanliness,Facilities & Cleanliness,446,3.7534,3.9123,-0.1589,-0.1771,0.0043,True
+participation_frequency,Weekly+,equipment_availability,Equipment Availability,456,2.6886,3.0922,-0.4036,-0.4197,0.0,True
+participation_frequency,Weekly+,scheduling_hours,Scheduling & Hours,450,2.6933,2.7016,-0.0083,-0.0081,0.8955,False
+participation_frequency,Weekly+,staff_support,Staff Support,455,4.0791,4.0225,0.0566,0.0665,0.2796,False
+participation_frequency,Weekly+,communication,Communication,450,3.0978,3.0324,0.0654,0.0656,0.2906,False
+participation_frequency,Weekly+,registration_process,Registration Process,454,2.9559,2.9984,-0.0425,-0.0416,0.5029,False
+participation_frequency,Weekly+,cost_value,Cost & Value,457,3.2385,3.101,0.1375,0.1436,0.0207,True
+participation_frequency,Weekly+,safety,Safety,451,4.0266,4.0927,-0.066,-0.0794,0.1987,False
+participation_frequency,Weekly+,program_variety,Program Variety,445,3.6876,3.566,0.1217,0.1342,0.0309,True
+participation_frequency,Weekly+,accessibility,Accessibility,450,3.1578,3.2089,-0.0512,-0.0524,0.3949,False
+participation_frequency,Weekly+,overall_satisfaction,Overall Satisfaction,477,7.2851,7.3802,-0.095,-0.0701,0.2441,False
+participation_frequency,Monthly,facilities_cleanliness,Facilities & Cleanliness,380,3.9105,3.811,0.0996,0.1112,0.0803,False
+participation_frequency,Monthly,equipment_availability,Equipment Availability,366,3.0628,2.8475,0.2154,0.2235,0.0005,True
+participation_frequency,Monthly,scheduling_hours,Scheduling & Hours,376,2.7128,2.6903,0.0224,0.0217,0.7359,False
+participation_frequency,Monthly,staff_support,Staff Support,373,4.0697,4.034,0.0357,0.0418,0.5127,False
+participation_frequency,Monthly,communication,Communication,368,3.087,3.0457,0.0412,0.0417,0.5155,False
+participation_frequency,Monthly,registration_process,Registration Process,374,2.9278,3.0085,-0.0807,-0.0808,0.2012,False
+participation_frequency,Monthly,cost_value,Cost & Value,364,3.1264,3.1768,-0.0504,-0.0536,0.3986,False
+participation_frequency,Monthly,safety,Safety,377,4.0424,4.0771,-0.0347,-0.0419,0.5108,False
+participation_frequency,Monthly,program_variety,Program Variety,375,3.6907,3.5765,0.1141,0.127,0.0458,True
+participation_frequency,Monthly,accessibility,Accessibility,374,3.2353,3.1622,0.0731,0.074,0.2513,False
+participation_frequency,Monthly,overall_satisfaction,Overall Satisfaction,392,7.398,7.3095,0.0885,0.0654,0.2932,False

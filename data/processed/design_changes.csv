@@ -1,0 +1,8 @@
+area,change
+Length,Cut instrument from 42 to 24 items by removing redundant and low-variance questions
+Question wording,Split double-barreled questions (e.g. 'hours and scheduling') into single-concept items
+Scale consistency,Standardized every rating item to one 5-point agreement scale with labeled endpoints
+Flow,Moved demographics to the end and grouped items by service area
+Attention check,Added one instructed-response item to flag straightlining
+Mobile,Replaced large matrix grids with single-item mobile-friendly screens
+Outreach,Personalized invitation plus two reminders timed to class breaks

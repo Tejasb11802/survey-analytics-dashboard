@@ -1,0 +1,11 @@
+theme,mentions,avg_sentiment,negative_share,positive_share,theme_label
+scheduling_hours,306,-0.1411,0.768,0.2222,Scheduling & Hours
+equipment_availability,269,-0.1488,0.7509,0.2491,Equipment Availability
+cost_value,213,0.0359,0.5399,0.4178,Cost & Value
+facilities_cleanliness,187,0.1553,0.3209,0.5882,Facilities & Cleanliness
+staff_support,156,0.442,0.1346,0.8654,Staff Support
+registration_process,148,-0.3414,0.8243,0.1216,Registration Process
+communication,143,-0.1224,0.6014,0.3846,Communication
+program_variety,101,0.0849,0.3366,0.5149,Program Variety
+safety,79,0.6534,0.0,1.0,Safety
+accessibility,69,-0.058,0.6667,0.2174,Accessibility

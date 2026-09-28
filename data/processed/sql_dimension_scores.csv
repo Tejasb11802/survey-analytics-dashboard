@@ -1,0 +1,11 @@
+dimension,n_ratings,mean_score,top2box_pct,bottom2box_pct
+scheduling_hours,1080,2.698,20.83,43.52
+equipment_availability,1074,2.921,25.33,32.87
+registration_process,1081,2.981,29.05,30.8
+communication,1068,3.06,32.12,27.53
+cost_value,1071,3.16,35.48,23.53
+accessibility,1077,3.188,36.21,23.4
+program_variety,1074,3.616,54.47,10.06
+facilities_cleanliness,1073,3.846,64.96,6.62
+staff_support,1078,4.046,73.47,3.71
+safety,1077,4.065,75.77,3.53

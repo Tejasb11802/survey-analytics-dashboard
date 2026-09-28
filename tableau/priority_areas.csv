@@ -1,0 +1,11 @@
+dimension,label,n,mean_score,top2box_pct,importance_r,mentions,negative_share,quadrant,priority_score,priority_area,priority_rank
+scheduling_hours,Scheduling & Hours,1080,2.6981,20.8333,0.5641,306,0.768,Concentrate Here,0.986,True,1
+equipment_availability,Equipment Availability,1074,2.9209,25.3259,0.4893,269,0.7509,Concentrate Here,0.821,True,2
+registration_process,Registration Process,1081,2.9806,29.0472,0.4703,148,0.8243,Concentrate Here,0.797,True,3
+communication,Communication,1068,3.0599,32.1161,0.4423,143,0.6014,Concentrate Here,0.683,True,4
+accessibility,Accessibility,1077,3.1876,36.2117,0.4423,69,0.6667,Concentrate Here,0.662,True,5
+cost_value,Cost & Value,1071,3.1597,35.4809,0.439,213,0.5399,Low Priority,0.635,True,6
+program_variety,Program Variety,1074,3.6164,54.4693,0.3515,101,0.3366,Possible Overkill,0.339,False,7
+facilities_cleanliness,Facilities & Cleanliness,1073,3.8462,64.9581,0.3699,187,0.3209,Possible Overkill,0.292,False,8
+staff_support,Staff Support,1078,4.0464,73.4694,0.3283,156,0.1346,Possible Overkill,0.135,False,9
+safety,Safety,1077,4.065,75.766,0.2533,79,0.0,Possible Overkill,0.0,False,10
